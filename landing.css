@@ -5,7 +5,9 @@ body{
    
 }
 
-
+html{
+  scroll-behavior: smooth ;
+}
 
 nav {
    /* background-color:rgb(12, 12, 12); */
